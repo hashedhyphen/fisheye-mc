@@ -10,9 +10,9 @@ This code provides an implementation of the research paper:
 ```
 
 ## Requirements
-CMake 2.8.11
-g++ 4.8.5
-OpenCV 3.1
+* CMake 2.8.11
+* g++ 4.8.5
+* OpenCV 3.1
 
 ## How to build
 `cmake -H. -Bbuild`
